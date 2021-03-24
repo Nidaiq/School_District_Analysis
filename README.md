@@ -1,14 +1,14 @@
 # School_District_Analysis
 
-# Background
+## Background
 
 Maria is a chief data scientist for a school district.  She is responsible for analyzing the standardized test data for performance analysis, reporting and presentations about insights about performance trends and patterns.  Her analysis helps the School Board and the School Superintendents in making decisions regarding school budgets and priorities.  The family Educational Rights and Privacy Act (FERPA) is important to protect the student's identity.  After completing the initial analysis, Maria was notified of academic dishonesty for Thomas High School ninth grader's data where the math and reading scores had been altered. 
 
-## Purpose
+### Purpose
 
 The purpose of this analysis was to replace the math and reading scores for Thomas High School while keeping the rest of the data intact and also to repeat the school district analysis with the changes.
 
-# Analysis
+## Analysis
 
 The analysis revealed the following:
 
@@ -28,6 +28,6 @@ The analysis revealed the following:
 
 6) In the spending range of $630-644 went up in the scores for reading and math which was then reflected in the percentage too. 
 
-# Summary of results:
+## Summary of results:
 
-The change in reading and math score that was also reflected in the % Passing Math, % Passing Reading and % Passing Overall specially for Thomas High School as the grade 9 data for the school was deleted.  This was also reflected in the spending range Data Frame.  Deleting the data set for grand 9th in Thomas High School changed the overall rating of the school and bumped it up to # 2 on the list of the schools with highest % overall passing.  This manipulation of data shows how important it is to evaluate if a data set should be deleted or not.  A change like such can have a minor impact on the overall data as the number of students in Thomas High School in grade 9th were only 461 out of 39170 in the school district (which represents only 1.2% of the population).  Deleting the dataset for Grade 9th had a larger impact on the overall rating and scores of Thomas High School but had a negligible impact on the overall school district analysis.  
+The change in reading and math score that was also reflected in the % Passing Math, % Passing Reading and % Passing Overall specially for Thomas High School as the grade 9 data for the school was deleted.  This was also reflected in the spending range Data Frame.  Deleting the data set for grand 9th in Thomas High School changed the overall rating of the school and bumped it up to # 2 on the list of the schools with highest % overall passing.  This manipulation of data shows how important it is to evaluate if a data set should be deleted or not.  A change like such can have a minor impact on the overall data as the number of students in Thomas High School in grade 9th were only 461 out of 39170 in the school district (which represents only 1.2% of the population) where as in Thomas High School the grade 9 students represent over 25% of the school student numbers.  Deleting the dataset for Grade 9th had a larger impact on the overall rating and scores of Thomas High School but had a negligible impact on the overall school district analysis.  
